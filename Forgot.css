@@ -1,0 +1,48 @@
+ #img{
+      margin-left: 20%;
+      margin-top: 25%;
+    }
+    #h2{
+      font-family: serif;
+      margin-top: -2%;
+    }
+    #p{
+      font-size: 13px;
+      text-align: center;
+    }
+    input[type="text"]{
+      height: 35px;
+      width: 70%;
+      border-radius: 6px;
+      margin-left:15%;
+      margin-top: 10px;
+      text-align: center;
+    }
+    #mail{
+      height: 25px;
+      width: 25px;
+      margin-left: 65px;
+      margin-top: -60px;
+    }
+    
+  input[type="submit"]{
+  font-size:17px; 
+  background-color:#3498DB; 
+  color:white; 
+  height:33px; 
+  width:40%;
+  border: none;
+  border-radius: 8px;
+  margin-left: 30%;
+  margin-top: 60px;
+  }
+  
+  #back{
+    text-align: center;
+    margin-top: 15%;
+    font-size: 14px;
+  }
+  a{
+    text-decoration: none;
+  }
+  
